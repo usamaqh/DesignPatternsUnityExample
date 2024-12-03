@@ -15,3 +15,5 @@ Huge thanks to PixelFrog for their amazing free TinySwords 2D sprite asset. Chec
 Also, check out Jason Weimann (GameDev) and IHeartGameDev Design Pattern tutorial videos, they will help you out a lot!
 
 Cheers!
+
+Unity Version: 6000.0.24f1
